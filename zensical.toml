@@ -11,8 +11,8 @@ site_name = "Documentation"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+#  { "Get started" = "index.md" },
+#  { "Markdown in 5min" = "markdown.md" },
   { "python" = "neurogas_py-api.md" },
   { "rust" = "rust-api.md" },
 ]

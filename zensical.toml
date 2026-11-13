@@ -13,8 +13,8 @@ site_name = "Documentation"
 nav = [
 #  { "Get started" = "index.md" },
 #  { "Markdown in 5min" = "markdown.md" },
-  { "python" = "neurogas_py-api.md" },
-  { "rust" = "rust-api.md" },
+  { "neurogas python api" = "neurogas_py-api.md" },
+  { "neurogas core api" = "rust-api.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
